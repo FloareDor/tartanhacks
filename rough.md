@@ -1,0 +1,2 @@
+4. Mosquito FPV: The Heist
+First-person mosquito. You must navigate a bedroom, dodge slapping hands, land on a sleeping human, and extract blood without waking them. A stealth/timing game. The human tosses and turns on a cycle. Fan oscillates creating wind currents you ride. Vibration = the heartbeat you're homing in on.
